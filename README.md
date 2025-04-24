@@ -106,7 +106,6 @@ python data_collect.py
 ![Screenshot 2025-04-12 193950](https://github.com/user-attachments/assets/c1ec0a73-99a2-4408-bcfb-ee58cd18504e)
 ![Screenshot 2025-04-12 194100](https://github.com/user-attachments/assets/b3efe065-6786-4913-9935-def493213884)
 ![Screenshot 2025-04-12 194212](https://github.com/user-attachments/assets/024785fb-d38f-49cf-b830-2aa116830ab6)
-![Screenshot 2025-04-12 194419](https://github.com/user-attachments/assets/21b147e9-f8c6-47e3-b3cc-84c9472526c6)
 ![Screenshot 2025-04-12 194434](https://github.com/user-attachments/assets/b0483fe0-8ca2-4e8c-b86c-21f52d44ce28)
 
 
