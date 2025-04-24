@@ -54,7 +54,7 @@ Install all dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Note: You need Meidapipe 0.8.10.1, otherwise it won't run. Since the version is unavailable now, so I am providing the file in the *'mediapipe/'*.
+Note: You need Meidapipe 0.8.10.1, otherwise it won't run. Since the version is unavailable now, so here is the link: https://drive.google.com/file/d/1PcFUY8UGcgMVqvy47H4pMOXYGlZpf0vc/view?usp=drive_link
 
 Typical requirements:
 
