@@ -1,7 +1,7 @@
 # Sign-Language-Detection-System
 
 
-# 🧠 Real-Time American Sign Language (ASL) Detection System
+# 🧠 Real-Time Sign Language Detection System
 
 A real-time Sign Language Recognition System using hand gestures, built with Python, OpenCV, TensorFlow, MediaPipe, and Flet. This project allows users to detect American Sign Language (ASL) gestures through their webcam and translate them into readable text, with optional word suggestion and voice feedback.
 
